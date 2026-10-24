@@ -17,13 +17,13 @@
 ### 🛡️ 교육 · 활동
 
 - **K-Shield 주니어** (한국정보보호교육센터 KISEC): Linux · Windows · 네트워크 · 정보보호 개론
-- **멋쟁이사자처럼 CAMPUS AX-TON**: 팀 HELPO로 독거 어르신 안부 확인 서비스 *Callog* 개발
+- **멋쟁이사자처럼 CAMPUS AX-TON**: 팀 HELPO **팀장**, 독거 어르신 안부 확인 서비스 *Callog* 개발 총괄
 
 ### 📌 Projects
 
 | 프로젝트 | 설명 |
 |---|---|
-| [**Callog (콜록)**](https://github.com/songsuhan04/HELPO-Callog) | 혼자 사시는 어르신께 하루 한 번 안부를 묻고, 이상 신호가 보이면 가족에게 알리는 웹 서비스 · React, Supabase, Gemini |
+| [**Callog (콜록)**](https://github.com/songsuhan04/HELPO-Callog) | 혼자 사시는 어르신께 하루 한 번 안부를 묻고, 이상 신호가 보이면 가족에게 알리는 웹 서비스. 팀장으로 프론트엔드·서버·DB·AI 연동 대부분을 직접 개발 · React, Supabase, Gemini |
 | [**football-vision**](https://github.com/songsuhan04/football-vision) | 축구 영상 선수 추적 → 2D 히트맵 · 이동 궤적 + AI 전술 리포트 (설계 단계) |
 | [**kshield-junior-notes**](https://github.com/songsuhan04/kshield-junior-notes) | K-Shield 주니어 학습 노트와 Linux 보안 점검 실습 |
 | [**ai-math-highschool**](https://github.com/songsuhan04/ai-math-highschool) | OpenCV, 데이터 분석, 추천 시스템, 경사하강법, Rasa 챗봇 실습 (고등학교) |
